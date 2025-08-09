@@ -3,7 +3,7 @@
 This repository contains an **interactive Pizza Sales Analysis Dashboard** built using **Microsoft Power BI**, powered by sales data from an **Excel dataset**.  
 The dashboard provides deep insights into pizza sales performance, customer preferences, and category/size trends — all with dynamic slicers and a clean, themed layout.
 
-![Dashboard Screenshot](./1713148f-114d-431a-a8f3-c42472676e7b.png)
+![Dashboard Screenshot](Screenshot%202025-08-09%20202055.png)   
 
 ---
 
