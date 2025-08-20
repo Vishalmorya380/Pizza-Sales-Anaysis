@@ -2,8 +2,10 @@
 
 
 ⚡ Note: This is my initial version of the Pizza Sales Analysis project, created entirely in Microsoft Power BI , powered by sales data from an *Excel dataset*.  
+
 👉 For the enhanced end-to-end project with SQL + Power BI analysis, check here:
 Pizza-Sales-Anaysis-Microsof-SQL-PowerBI (SQL + Power BI Project)
+
 The dashboard provides deep insights into pizza sales performance, customer preferences, and category/size trends — all with dynamic slicers and a clean, themed layout.
 
 ![Dashboard Screenshot](Screenshot%202025-08-09%20202055.png)   
